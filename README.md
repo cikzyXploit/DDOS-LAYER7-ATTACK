@@ -5,4 +5,7 @@ install module :
 - pip install aiohttp
 
 run :
-- python flooder.py
+- python layer7-finix.py
+
+password :
+- finix-kyyTzy
